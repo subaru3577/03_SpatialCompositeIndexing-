@@ -7,7 +7,7 @@ This work has been submitted in partial fulfilment of the requirements of the Ma
 **Overview:**  
   
 This work identifies priority areas for the life insurance campaign to help the company determine where to allocate its resources primarily. We employed the geodemographic approach, which categorises geographical areas according to demographic features by developing a spatial composite index.
-Note that the analysis was conducted using SPSS and Python.
+Note that the analysis was conducted using SPSS, Python and QGIS.
 
 - *Topic: Marketing, Life Insurance, Industry Needs*  
 - *Keywords: Geodemographic analysis, Spatial composite indexing with demographic data*
