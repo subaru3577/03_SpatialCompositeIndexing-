@@ -4,6 +4,8 @@ This work has been submitted in partial fulfilment of the requirements of the Ma
 - Author: Subaru Shimizu
 - Grade: 78/100
 
+[Practical Briefing in PDF file](https://github.com/subaru3577/51_Priority-Areas-Insurance-Campaign/blob/main/Spatial_Composite_Indexing.pdf) is available.
+
 **Overview:**  
   
 This work identifies priority areas for the life insurance campaign to help the company determine where to allocate its resources primarily. We employed the geodemographic approach, which categorises geographical areas according to demographic features by developing a spatial composite index.
